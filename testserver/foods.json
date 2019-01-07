@@ -1,0 +1,29 @@
+{
+  "results":[
+    {
+      "name":"Gourmet Turkey",
+      "url":"https://cf.ltkcdn.net/gourmet/images/std/155602-425x268-turkey1.jpg",
+      "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea ut expedita nisi facere aut obcaecati, quia nesciunt vero impedit distinctio."
+    },
+    {
+      "name":"Spagetti and Meatballs",
+      "url":"https://hips.hearstapps.com/del.h-cdn.co/assets/17/39/2048x1024/landscape-1506456062-delish-spaghetti-meatballs.jpg?resize=1200:*",
+      "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea ut expedita nisi facere aut obcaecati, quia nesciunt vero impedit distinctio."
+    },
+    {
+      "name":"Coconut Rice",
+      "url":"https://recipes.timesofindia.com/photo/52413325.cms",
+      "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea ut expedita nisi facere aut obcaecati, quia nesciunt vero impedit distinctio."
+    },
+    {
+      "name":"Maple Roasted Nuts",
+      "url":"http://relish.com/wp-content/uploads/2016/11/Host-Maple-Roasted-Nuts-1-670x405.jpg",
+      "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea ut expedita nisi facere aut obcaecati, quia nesciunt vero impedit distinctio."
+    },
+    {
+      "name":"Kiwi Ice Cream",
+      "url":"https://truffle-assets.imgix.net/dkkdgt98uadb_20Sto07DXm8eIgA0A4Koey_kiwi-ice-cream_landscapeThumbnail_en-UK.png",
+      "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea ut expedita nisi facere aut obcaecati, quia nesciunt vero impedit distinctio."
+    }
+  ]
+}
